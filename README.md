@@ -50,7 +50,10 @@ R을 사용했던 프로젝트 부터, Python을 사용한 프로젝트 순서�
 >> - Language : R
 >> - Skill : shinyapps
 >>
+#### 🕒 로딩 시간 주의
+> 앱이 웹사이트 및 그래프를 로드하는 동안 시간이 소요될 수 있습니다. 이 점 양해 부탁드립니다.
 >> [프로젝트 웹사이트 링크(Simpsons Transcript Analysis Project)](https://sangwon08017.shinyapps.io/Simpsons_Transcripts_Analysis/)
+>>
 >> 
 >> [프로젝트 코드](https://github.com/SangwonJi/Simpsons-Transcript-Analysis/blob/main/app.R)
 
@@ -68,6 +71,8 @@ R을 사용했던 프로젝트 부터, Python을 사용한 프로젝트 순서�
 >> - Language : R
 >> - Skill : shinyapps
 >>
+#### 🕒 로딩 시간 주의
+> 앱이 웹사이트 및 그래프를 로드하는 동안 시간이 소요될 수 있습니다. 이 점 양해 부탁드립니다.
 >> [프로젝트 웹사이트 링크(Investment Simulator Project)](https://sangwon08017.shinyapps.io/Hw5-Sangwon-Ji/)
 >>
 >> [프로젝트 코드](https://github.com/SangwonJi/Investment-Simulator/blob/main/app.R)
@@ -76,7 +81,7 @@ R을 사용했던 프로젝트 부터, Python을 사용한 프로젝트 순서�
 
 ## Python을 사용한 분석 / 개발
 
-###  1. 🌏 세계의 진전과 빈곤 프로젝트 (World Progress and Poverty Project) 
+###  1. 🌏 세계의 발전과 빈곤 프로젝트 (World Progress and Poverty Project) 
 
 > Gapminder.org의 데이터를 활용하여 세계 인구 성장과 국가별 빈곤률에 초점을 맞추어 세계의 변화와 발전을 분석하는 프로젝트 입니다.
 >
