@@ -107,7 +107,7 @@ R을 사용했던 프로젝트 부터, Python을 사용한 프로젝트 순서�
 >> - Language : python3
 >> - Skill : K-neartest neighbors (K-NN) 분류기 구현, 알고리즘 구현, 유클리드 거리 계산
 >>
->> [프로젝트 상세 설명(Typing Test Project](https://github.com/SangwonJi/Movie-Classification)
+>> [프로젝트 상세 설명(Movie Classification Project)](https://github.com/SangwonJi/Movie-Classification)
 >>
 >> [프로젝트 코드 / PDF](https://github.com/SangwonJi/Movie-Classification/blob/main/Classification_Project.ipynb)
 
